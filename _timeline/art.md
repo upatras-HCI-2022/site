@@ -8,7 +8,6 @@ events:
   - predictive-text
   - knowledge-navigator
   - atari-2600
-  - articulated-head
 ---
 <!-- ---
 layout: timeline 
