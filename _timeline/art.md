@@ -8,6 +8,7 @@ events:
   - knowledge-navigator
   - atari-2600
   - eye-tracking
+  - mesch-project
 ---
 <!-- ---
 layout: timeline 
