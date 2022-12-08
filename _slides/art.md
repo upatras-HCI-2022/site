@@ -7,5 +7,6 @@ caption: Η Τέχνη προστατεύει την ψυχική υγεία τ�
 slides:
   - aldus-superpaint-3.0
   - the-mind-music-machine
-
+  - articulated-head
+  - mesch-project
 ---
