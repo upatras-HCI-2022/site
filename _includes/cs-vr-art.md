@@ -4,7 +4,7 @@
 
 {% include figure image_path="/images/sensorama.png" caption="Figure 1: Tο Sensorama που εκτός από την όραση και την ακοή ενεργοποιούσε τόσο την αφή (με δονήσεις) την αλλά και την οσμή. " id="fig:sensorama" %}
 
-{% include figure image_path="/images/teleshpere.jpg" caption="Figure 2: Το Teleshpere που αν και μορφολογικά παρουσιάζει εκπληκτικές ομοιότητες με ένα μοντέρνο VR headset, ουσιαστικά είναι μια οθόνη που προσαρμόζεται στο κεφάλι χωρίς να προσφέρει διάδραση ή ανίχνευση κίνησης και απλά προβάλλει στεροσκοπικό 3D βίντεο με στρεοφωνικό ήχο." %}
+{% include figure image_path="/images/teleshpere.jpg" caption="Figure 2: Το Teleshpere που αν και μορφολογικά παρουσιάζει εκπληκτικές ομοιότητες με ένα μοντέρνο VR headset, ουσιαστικά είναι μια οθόνη που προσαρμόζεται στο κεφάλι χωρίς να προσφέρει διάδραση ή ανίχνευση κίνησης και απλά προβάλλει στεροσκοπικό 3D βίντεο με στρεοφωνικό ήχο." id="fig:teleshere" %}
 
 [^1]: fig:sensorama
 [^2]: fig:teleshere
