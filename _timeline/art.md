@@ -8,6 +8,8 @@ events:
   - the-mind-music-machine
   - mesch-project
   - articulated-head
+  - eye-drawing
+  - eeg-brainwave
 ---
 
 <!-- ---
