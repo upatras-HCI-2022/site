@@ -4,13 +4,12 @@
 
 {% include figure image_path="/images/Timothy-Johnson-Sketchpad-III.jpg" caption="Figure 2: O Timothy E. Johnson σχεδιάζει στο Sketchpad III. Το σύστημα υποστήριζε αξιοθαύμαστες για την εποχή λειτουργίες." %}
 
-{% include figure image_path="/images/Wand-Larry-Roberts.jpg" caption="Figure : To 1966 o Larry Roberts δημιούργησε το Lincoln Wand, ένα 3D σύστημα ανίχνευσης θέσης, που αναπτύχθηκε στα Lincoln Labs και χρηματοδοτήθηκε από την ARPA. Αυτό το σύστημα περιλάμβανε αναπαραστάσεις εικονιδίων, αναγνώριση χειρονομιών, δυναμικά μενού με τη βοήθεια συσκευών κατάδειξης και επιλογή εικονιδίων που τα δείχνουν." id="fig:lincoln-wand" %}
+{% include figure image_path="/images/Wand-Larry-Roberts.jpg" caption="Figure 3: To 1966 o Larry Roberts δημιούργησε το Lincoln Wand, ένα 3D σύστημα ανίχνευσης θέσης, που αναπτύχθηκε στα Lincoln Labs και χρηματοδοτήθηκε από την ARPA. Αυτό το σύστημα περιλάμβανε αναπαραστάσεις εικονιδίων, αναγνώριση χειρονομιών, δυναμικά μενού με τη βοήθεια συσκευών κατάδειξης και επιλογή εικονιδίων που τα δείχνουν." id="fig:lincoln-wand" %}
 
-{% include figure image_path="/images/Ivan-Sutherland-vr.jpg" caption="Figure : Στα τέλη της δεκαετίας του 1960, ο Ivan Sutherland αναπτύσσει μια "οθόνη" που τοποθετείται στο κεφάλι για προσομοίωση πραγματικότητας vr και ar." id="fig:vr" %}
+{% include figure image_path="/images/Ivan-Sutherland-vr.jpg" caption="Figure 4: Στα τέλη της δεκαετίας του 1960, ο Ivan Sutherland αναπτύσσει μια "οθόνη" που τοποθετείται στο κεφάλι για προσομοίωση πραγματικότητας vr και ar." id="fig:vr" %}
 
 
 
 [^1]: fig:sketchpad
-
 [^2]: fig:lincoln-wand
 [^3]: fig:vr
