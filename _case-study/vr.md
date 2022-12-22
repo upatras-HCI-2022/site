@@ -11,4 +11,4 @@ tags:
   - Virtual Reality
 ---
 
-{% include vr-art.md %}
+{% include cs-vr-art.md %}
