@@ -10,4 +10,5 @@ events:
   - articulated-head
   - eye-drawing
   - eeg-brainwave
+  - text-to-image
 ---

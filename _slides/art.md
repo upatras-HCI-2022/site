@@ -10,4 +10,5 @@ slides:
   - mesch-project
   - eye-drawing
   - eeg-brainwave
+  - text-to-image
 ---
