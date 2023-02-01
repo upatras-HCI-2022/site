@@ -1,7 +1,7 @@
 ---
 author: EvangeliaChatz
 title: Voice chess Challenger 
-image_url: /images/atm-affective.png
+image_url: /images/voice-chess-challenger.png
 caption: "Voice chess Challenger."
 categories:
   - Μελέτη Περίπτωσης
