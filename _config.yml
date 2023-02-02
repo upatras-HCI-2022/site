@@ -10,16 +10,13 @@ theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "gr-GR"
-title                    : "Κατασκευή Συστημάτων Διάδρασης"
+title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
 name                     : "pibook"
-description              : "Making Interactivity Greek Book."
-# url                      : "https://pibook.epidro.me"
-# url                      : "https://aquamarine-unicorn-d025d3.netlify.app"
+description              : "Programming Interactivity Greek Book."
 url                      : "https://wondrous-paletas-7dd991.netlify.app"
-# url                        : "https://gregarious-bienenstitch-b2d906.netlify.app"
 baseurl                  : ""
-repository               : "pibook/site"
+repository               : "upatras-HCI-2022/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
