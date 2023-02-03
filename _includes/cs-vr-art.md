@@ -29,7 +29,7 @@
 [^4]: fig:aspen-movie-map
 [^5]: fig:tilt-brush
 
-Πηγές:
-[History Of Virtual Reality](https://www.vrs.org.uk/virtual-reality/history.html)
-[VR's long, weird history](https://www.polygon.com/2016/10/26/13401128/25-vr-greatest-innovators)
+Πηγές:  
+[History Of Virtual Reality](https://www.vrs.org.uk/virtual-reality/history.html)  
+[VR's long, weird history](https://www.polygon.com/2016/10/26/13401128/25-vr-greatest-innovators)  
 [History of VR - Timeline of Events and Tech Development](https://virtualspeech.com/blog/history-of-vr)
