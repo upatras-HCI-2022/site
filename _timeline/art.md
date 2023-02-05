@@ -12,5 +12,5 @@ events:
   - eeg-brainwave
   - text-to-image
   - polispective
-  - art-gallery-studio
+  - art-reality-studio
 ---
