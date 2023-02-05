@@ -11,4 +11,6 @@ slides:
   - eye-drawing
   - eeg-brainwave
   - text-to-image
+  - polispective
+  - art-reality-studio
 ---
