@@ -13,4 +13,5 @@ slides:
   - text-to-image
   - polispective
   - art-reality-studio
+  - riffussion
 ---
