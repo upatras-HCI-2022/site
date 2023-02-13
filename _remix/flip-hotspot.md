@@ -17,7 +17,6 @@ tags:
   <span>See the Pen <a href="https://codepen.io/VasilisK23/pen/jOvNzOR">
   Hotspots flip</a> by VasilisK23 (<a href="https://codepen.io/VasilisK23">@VasilisK23</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+</p> <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Επιχειρήστε να παραμετροποίησετε τον κώδικα, έτσι ώστε να προστεθεί ένα έξτρα info-tag σχετικά με το πιλοτήριο του αεροσκάφους.
