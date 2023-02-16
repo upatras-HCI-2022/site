@@ -15,7 +15,7 @@
 Η οθόνη 1 εμφανίζει τον συνολικό αριθμό των αντικειμένων που δανείστηκαν. Η οθόνη 2 απεικονίζει μια καταμέτρηση των στοιχείων που διαθέτουν κωδικό Dewey και δανείστηκαν. Η οθόνη 3 περιλαμβάνει το σύνολο των αντικειμένων που δεν διαθέτουν κωδικό Dewey. Η Οθόνη 4 παραθέτει τα Βιβλία που δανείστηκαν. Η Οθόνη 5 τα DVDs τα οποία δανείστηκαν και η οθόνη 6 εμφανίζει το άθροισμα των CDs, VHS και κασετών που δανείστηκαν.  
 Το χρώμα του φόντου είναι συγχρονισμένο και προγραμματισμένο να αλλάζει κάθε ώρα. Ξεκινά με πορτοκαλί το πρωί και μεταβαίνει σε κίτρινο μέχρι το μεσημέρι. Στη 1 μ.μ. αλλάζει σε πράσινο και αργά το απόγευμα από μπλε σε μοβ. Με αυτόν τον τρόπο, το χρώμα γίνεται ένδειξη του χρόνου.  
 
-{% include figure image_path="/images/making-visible-the-invisible-1.jpg" caption="Πρώτη Οθόνη" id="fig:screen1" %}  
+{% include figure image_path="/images/making-visible-the-invisible-1.jpg" caption="Πρώτη Οπτικοποίηση" id="fig:screen1" %}  
 
 ## Visualization II: Floating Titles  
 
@@ -24,7 +24,7 @@
 
 {% include figure image_path="/images/making-visible-the-invisible-2a.jpg" caption="" id="fig:screen2a" %}  
 {% include figure image_path="/images/making-visible-the-invisible-2b.jpg" caption="" id="fig:screen2b" %}  
-{% include figure image_path="/images/making-visible-the-invisible-2c.jpg" caption="Δεύτερη Οθόνη" id="fig:screen2c" %}  
+{% include figure image_path="/images/making-visible-the-invisible-2c.jpg" caption="Δεύτερη Οπτικοποίηση" id="fig:screen2c" %}  
 
 ## Visualization III: Dot Matrix Rain  
 
@@ -32,14 +32,14 @@
 
 {% include figure image_path="/images/making-visible-the-invisible-3a.jpg" caption="" id="fig:screen3a" %}  
 {% include figure image_path="/images/making-visible-the-invisible-3b.jpg" caption="" id="fig:screen3b" %}  
-{% include figure image_path="/images/making-visible-the-invisible-3c.jpg" caption="Τρίτη Οθόνη" id="fig:screen3c" %}  
+{% include figure image_path="/images/making-visible-the-invisible-3c.jpg" caption="Τρίτη Οπτικοποίηση" id="fig:screen3c" %}  
 
 ## Visualization IV: KeyWord Map Attack  
 Οι οθόνες διαχωρίζονται και κωδικοποιούνται με χρώματα σύμφωνα με τις 1000 υποκατηγορίες με βάση των κωδικό Dewey. Οι βασικές λέξεις που περιέχονται σε όλους τους τίτλους των αντικειμένων που δανείστηκαν μέσα στην τελευταία ώρα συλλέγονται σε μια μεγάλη λίστα της βάσης δεδομένων. Οι λέξεις-κλειδιά που υπάρχουν στη βάση και σχετίζονται με τους αυτούς τους τίτλους προστίθενται διαδοχικά  και αυτές στη λίστα στην αντίστοιχη υποκατηγορία Dewey. Έπειτα, οι λέξεις-κλειδιά «πετάγονται στην οθόνη» μία κάθε φορά, δείχνοντας τις διασυνδέσεις με τις κατηγορίες Dewey που ανήκουν. Η θέση των λέξεων-κλειδιών στην οθόνη, αντιπροσωπεύει τον μέσο όρο χρήσης της κάθε υποκατηγορίας Dewey. Τα χρώματα των λέξεων-κλειδιών προσδιορίζονται επίσης με τον ίδιο τρόπο, με τον μέσο όρο χρήσης δηλαδή, της κάθε υποκατηγορίας Dewey. Οι λέξεις-κλειδιά εμφανίζονται στην οθόνη ξεκινώντας από τις πιο δημοφιλείς. Εμφανίζονται μόνο οι λέξεις που έχουν 9 ή περισσότερες εμφανίσεις και υπάρχουν σε τουλάχιστον 2 υποκατηγορίες Dewey.  
 
 {% include figure image_path="/images/making-visible-the-invisible-4a.jpg" caption="" id="fig:screen4a" %}  
 {% include figure image_path="/images/making-visible-the-invisible-4b.jpg" caption="" id="fig:screen4b" %}  
-{% include figure image_path="/images/making-visible-the-invisible-4c.jpg" caption="Τέταρτη Οθόνη" id="fig:screen4c" %}  
+{% include figure image_path="/images/making-visible-the-invisible-4c.jpg" caption="Τέταρτη Οπτικοποίηση" id="fig:screen4c" %}  
 
 
 Πηγές:  
