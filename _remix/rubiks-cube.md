@@ -25,4 +25,4 @@ tags:
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>  
 
-Άσκηση: Προσπαθήστε να λύσετε τον κύβο.
+Άσκηση: Βρείτε όλους τους δυνατούς τρόπους για να αλληλεπιδράσετε με τον κύβο.
